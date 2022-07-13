@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "565817267863",
+    "firebase_url": "https://projectsflutter22-default-rtdb.firebaseio.com",
+    "project_id": "projectsflutter22",
+    "storage_bucket": "projectsflutter22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565817267863:android:30895679158724637efbd2",
+        "android_client_info": {
+          "package_name": "com.elvis.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565817267863-2aobbtlj944db0t72c1g5ljgvu9ihc6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.agenda",
+            "certificate_hash": "5dfb69372c3df5c12a18612cb75904e16aa05d82"
+          }
+        },
+        {
+          "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAHaQizxtwGoD5B2nEekSkTqOsmFPMnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565817267863-2nt6ougc876bpftq6tprea4tqnk23jdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.developedProjects"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565817267863:android:be04ca194fc4c1ea7efbd2",
+        "android_client_info": {
+          "package_name": "com.elvis.developed_projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565817267863-a9ee3k1micdu5ehuc28fb21d1uiv619g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.developed_projects",
+            "certificate_hash": "5dfb69372c3df5c12a18612cb75904e16aa05d82"
+          }
+        },
+        {
+          "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAHaQizxtwGoD5B2nEekSkTqOsmFPMnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565817267863-2nt6ougc876bpftq6tprea4tqnk23jdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.developedProjects"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565817267863:android:973f4efd331f48d57efbd2",
+        "android_client_info": {
+          "package_name": "com.elvis.login_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565817267863-g2b9uu06tkku4hdq7hlpc7vq3gbm4iof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.login_firebase_auth",
+            "certificate_hash": "5dfb69372c3df5c12a18612cb75904e16aa05d82"
+          }
+        },
+        {
+          "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAHaQizxtwGoD5B2nEekSkTqOsmFPMnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565817267863-2nt6ougc876bpftq6tprea4tqnk23jdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.developedProjects"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565817267863:android:5c8c25ee5f997b0b7efbd2",
+        "android_client_info": {
+          "package_name": "com.elvis.login_lila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565817267863-qtjf8h2p6kn3mn6uq1kqp0utq6e8o0rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.login_lila",
+            "certificate_hash": "5dfb69372c3df5c12a18612cb75904e16aa05d82"
+          }
+        },
+        {
+          "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAHaQizxtwGoD5B2nEekSkTqOsmFPMnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565817267863-2nt6ougc876bpftq6tprea4tqnk23jdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.developedProjects"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565817267863:android:4c1aa92269c3c4f37efbd2",
+        "android_client_info": {
+          "package_name": "com.elvis.login_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565817267863-0m46ahbo0c4kb2i978q0c5a44j1lk2rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.login_register",
+            "certificate_hash": "5dfb69372c3df5c12a18612cb75904e16aa05d82"
+          }
+        },
+        {
+          "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAHaQizxtwGoD5B2nEekSkTqOsmFPMnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565817267863-2nt6ougc876bpftq6tprea4tqnk23jdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.developedProjects"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565817267863:android:351f33a92dbc06c97efbd2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565817267863-bet9n5e4g5e8klm5gnkoh5kf4ioc2ral.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_app_web",
+            "certificate_hash": "5dfb69372c3df5c12a18612cb75904e16aa05d82"
+          }
+        },
+        {
+          "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAHaQizxtwGoD5B2nEekSkTqOsmFPMnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565817267863-m134ijilnojj0letsf8h7nj9dbfthrjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565817267863-2nt6ougc876bpftq6tprea4tqnk23jdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.developedProjects"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
